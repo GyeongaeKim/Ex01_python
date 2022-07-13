@@ -11,6 +11,8 @@ print(b, type(b))
 print(c, type(c))
 print(d, type(d))
 
+
+
 #10진수 --> 2진수, 8진수, 16진수
 print(bin(5))
 print(oct(65))
