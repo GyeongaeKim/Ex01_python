@@ -21,3 +21,11 @@ name = "토마스"
 name2 = name[::-1]
 print(name)
 print(name2)
+
+#문자열 객체와 정수형 객체는 + 연산을 할 수 없다.
+name = "길동"
+age = 40
+#print( name + age )
+print( name + str(age) )
+
+
